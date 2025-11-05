@@ -1,5 +1,5 @@
 # NAME: Telegram
-# SOURCE:
+# SOURCE: https://raw.githubusercontent.com/rudolf-si/shadowrocket-configuration/main/config/telegram.list
 # UPDATED: 2025-11-05
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
