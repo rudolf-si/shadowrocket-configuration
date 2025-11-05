@@ -1,6 +1,6 @@
 # NAME: domain_ips.list
 # UPDATED: 2025-11-05
-# SOURCE: https://github.com/misha-tgshv/shadowrocket-configuration-file/blob/main/community.list
+# SOURCE: https://raw.githubusercontent.com/rudolf-si/shadowrocket-configuration//main/config/domain_ips.list
 104.20.39.144
 185.104.45.199
 87.237.217.231
