@@ -1,6 +1,7 @@
 # NAME: domains_community.list
 # SOURCE: https://raw.githubusercontent.com/rudolf-si/shadowrocket-configuration/main/config/community.list
 # special
+DOMAIN-KEYWORD,amdm
 DOMAIN-KEYWORD,seasonvar
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,discord
