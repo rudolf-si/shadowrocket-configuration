@@ -1,5 +1,5 @@
 # NAME: domains_community.list
-# SOURCE: https://github.com/rudolf-si/shadowrocket-configuration/new/main/config/community.list
+# SOURCE: https://github.com/rudolf-si/shadowrocket-configuration/blob/main/config/community.list
 # special
 DOMAIN-KEYWORD,seasonvar
 DOMAIN-KEYWORD,4pda
