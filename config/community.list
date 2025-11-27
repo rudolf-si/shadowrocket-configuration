@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,searchgpt.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,gemini.google.com
 # games
 DOMAIN-SUFFIX,anzu-us.com
 DOMAIN-SUFFIX,cdn.id.supercell.com
