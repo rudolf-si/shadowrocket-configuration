@@ -22,7 +22,8 @@ DOMAIN-KEYWORD,lostfilm
 DOMAIN-SUFFIX,ru.xhamster.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,cdntogo.net
-DOMAIN-SUFFIX,nnmclub
+DOMAIN-SUFFIX,nnm.club
+DOMAIN-KEYWORD,nnmclub
 # youtube
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
